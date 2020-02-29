@@ -8,7 +8,7 @@
     "cookie-parser": "^1.4.4",
     "ethereumjs-testrpc": "^6.0.3",
     "express": "^4.16.3",
-    "morgan": "^1.9.0",
+    "morgan": "^1.9.1",
     "nodemon": "^2.0.2",
     "password-hash": "^1.2.2",
     "request": "^2.88.2",
