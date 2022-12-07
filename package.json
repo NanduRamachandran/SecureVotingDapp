@@ -4,10 +4,10 @@
   "description": "Aadhaar Based voting system using blockchain technology Project implemented as part of Rajasthan Hackathron",
   "main": "index.js",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.1",
     "cookie-parser": "^1.4.4",
     "ethereumjs-testrpc": "^6.0.3",
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "morgan": "^1.9.0",
     "nodemon": "^2.0.2",
     "password-hash": "^1.2.2",
